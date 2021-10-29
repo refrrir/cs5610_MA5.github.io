@@ -1,1 +1,1 @@
-###The project uses Redux
+### The project uses Redux
